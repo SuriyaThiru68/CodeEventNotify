@@ -35,5 +35,4 @@ It allows users to create, manage, and track coding events, hackathons, workshop
 
 ---
 
-## 📂 Project Structure
 
